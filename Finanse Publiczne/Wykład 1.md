@@ -459,3 +459,68 @@ Podział dochodów publicznych pomiędzy administrację rządową i lokalną jes
 
 ## **8. Podsumowanie**
 Mechanizm gromadzenia środków publicznych obejmuje różne formy pozyskiwania dochodów przez państwo. Kluczowe źródła finansowania to podatki, opłaty i środki dłużne. Efektywna organizacja systemu podatkowego oraz właściwy podział dochodów między administrację centralną i lokalną ma istotne znaczenie dla stabilności finansów publicznych oraz realizacji usług na rzecz obywateli.
+
+# **Slajdy 12-13: Klasyczne i nowoczesne podejście do nauki o finansach publicznych**
+
+Finanse publiczne jako dziedzina nauki ewoluowały na przestrzeni lat, przechodząc od klasycznego podejścia skoncentrowanego na skarbowości do nowoczesnych koncepcji uwzględniających aspekty gospodarcze, społeczne i polityczne.
+
+---
+
+## **Slajd 12: Klasyczne podejście do nauki o finansach publicznych**
+### **1. Definicja klasycznej nauki o finansach publicznych**
+Klasyczne podejście, nazywane również **nauką skarbowości**, koncentruje się na badaniu mechanizmów funkcjonowania systemu finansowego państwa. Główne obszary zainteresowania obejmują:
+- Tworzenie i zarządzanie budżetem państwa.
+- Gromadzenie dochodów publicznych (podatki, cła, opłaty).
+- Wydatkowanie środków publicznych na określone cele.
+- Regulowanie finansów sektora publicznego.
+
+### **2. Kluczowe obszary klasycznej nauki o finansach publicznych**
+- **Budżet państwa** – struktura dochodów i wydatków rządowych.
+- **Budżety samorządowe** – zarządzanie środkami na poziomie lokalnym.
+- **Fundusze celowe** – wyodrębnione środki na konkretne programy publiczne (np. Fundusz Ubezpieczeń Społecznych).
+- **Podatki i system fiskalny** – mechanizmy opodatkowania i ich wpływ na gospodarkę.
+- **Zadłużenie publiczne** – źródła finansowania deficytu i konsekwencje długu publicznego.
+
+### **3. Ograniczenia klasycznego podejścia**
+- Brak szerszej analizy wpływu finansów publicznych na gospodarkę i społeczeństwo.
+- Ograniczone podejście do oceny efektywności wydatkowania środków.
+- Nacisk głównie na zarządzanie budżetem i systemem podatkowym.
+
+---
+
+## **Slajd 13: Nowoczesne podejście do nauki o finansach publicznych**
+### **1. Czym jest nowoczesna nauka o finansach publicznych?**
+Nowoczesna koncepcja finansów publicznych rozszerza klasyczne podejście, uwzględniając:
+- **Aspekty ekonomiczne** – analiza wpływu polityki fiskalnej na gospodarkę.
+- **Aspekty społeczne** – redystrybucja dochodów, skutki nierówności majątkowych.
+- **Aspekty polityczne** – decyzje budżetowe jako element polityki państwa.
+
+### **2. Nowoczesne kierunki badań w finansach publicznych**
+- **Polityka fiskalna a wzrost gospodarczy** – wpływ podatków i wydatków publicznych na PKB.
+- **Systemy podatkowe i ich efektywność** – analiza progresywnego, liniowego i regresywnego opodatkowania.
+- **Efektywność wydatków publicznych** – jak optymalnie alokować zasoby państwowe.
+- **Związek finansów publicznych z rynkami finansowymi** – rola długu publicznego, inwestycji państwowych.
+
+### **3. Nowoczesne metody analizy finansów publicznych**
+Nowoczesne podejście wykorzystuje zaawansowane narzędzia analizy ekonomicznej, takie jak:
+- **Modele makroekonomiczne** – prognozowanie skutków polityki fiskalnej.
+- **Big Data i analityka finansowa** – monitorowanie przepływów budżetowych i optymalizacja wydatków.
+- **Metody ewaluacji wydatków publicznych** – ocena efektywności projektów finansowanych ze środków publicznych.
+
+### **4. Przewaga nowoczesnego podejścia**
+- Lepsze dostosowanie do zmieniającej się gospodarki.
+- Możliwość skuteczniejszego reagowania na kryzysy finansowe i recesję.
+- Większa efektywność w zarządzaniu środkami publicznymi.
+
+---
+
+## **Podsumowanie slajdów 12-13**
+| **Kryterium** | **Klasyczna nauka o finansach publicznych** | **Nowoczesna nauka o finansach publicznych** |
+|--------------|-----------------------------------|------------------------------------|
+| **Cel analizy** | Mechanizmy budżetowe i fiskalne | Powiązania finansów publicznych z gospodarką i społeczeństwem |
+| **Zakres badań** | Budżet państwa, podatki, wydatki | Polityka fiskalna, redystrybucja, efektywność alokacji środków |
+| **Podejście** | Formalne zarządzanie finansami publicznymi | Holistyczne spojrzenie na gospodarkę, politykę i społeczeństwo |
+| **Narzędzia analizy** | Tradycyjne metody rachunkowości budżetowej | Modele ekonomiczne, analityka danych, ewaluacja polityk publicznych |
+
+Nowoczesna nauka o finansach publicznych umożliwia bardziej kompleksowe podejście do zarządzania finansami państwa, uwzględniając wpływ polityki fiskalnej na wzrost gospodarczy, społeczeństwo i stabilność budżetową.
+
