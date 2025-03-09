@@ -641,3 +641,121 @@ Niektóre podmioty, mimo że nie należą bezpośrednio do sektora finansów pub
 
 Finanse publiczne są złożonym systemem, obejmującym różne instytucje, które gromadzą, zarządzają i rozdysponowują środki publiczne w celu realizacji funkcji państwa oraz wspierania rozwoju gospodarczego i społecznego.
 
+# **Slajdy 19-22: Środki publiczne – Definicja, źródła, przeznaczenie i zarządzanie**
+
+Finanse publiczne obejmują środki publiczne, które są gromadzone i wydatkowane przez państwo oraz jego instytucje w celu realizacji funkcji publicznych. Slajdy 19-22 koncentrują się na **definicji środków publicznych, ich źródłach, przeznaczeniu oraz mechanizmach zarządzania**.
+
+---
+
+# **Slajd 19: Definicja środków publicznych**
+### **1. Czym są środki publiczne?**
+Zgodnie z **Art. 5 ustawy o finansach publicznych**, środki publiczne obejmują wszelkie zasoby finansowe gromadzone i rozdysponowywane przez państwo oraz inne jednostki sektora finansów publicznych.
+
+### **2. Charakterystyka środków publicznych**
+- **Pochodzą z różnych źródeł** – podatki, składki, dotacje unijne, przychody z majątku państwowego.
+- **Służą finansowaniu zadań publicznych** – ochrona zdrowia, edukacja, bezpieczeństwo, infrastruktura.
+- **Mają charakter bezzwrotny i zwrotny** – podatki są bezzwrotne, natomiast kredyty czy obligacje wymagają spłaty.
+
+---
+
+# **Slajd 20: Źródła środków publicznych**
+Środki publiczne pochodzą z różnych źródeł finansowania, które można podzielić na kilka kategorii.
+
+## **1. Dochody publiczne**
+Dochody publiczne to zasoby finansowe gromadzone przez państwo na cele budżetowe.
+
+### **a) Dochody podatkowe**
+Stanowią największą część dochodów publicznych:
+- **Podatki bezpośrednie** – płacone bezpośrednio przez podatnika:
+  - PIT (podatek dochodowy od osób fizycznych).
+  - CIT (podatek dochodowy od osób prawnych).
+  - Podatek od nieruchomości.
+- **Podatki pośrednie** – doliczane do ceny towarów i usług:
+  - VAT (podatek od towarów i usług).
+  - Akcyza (podatki na alkohol, papierosy, paliwa).
+
+### **b) Dochody niepodatkowe**
+- **Opłaty administracyjne** (np. za paszport, rejestrację pojazdu).
+- **Cła na towary importowane**.
+- **Dywidendy z państwowych spółek**.
+
+## **2. Środki pochodzące z budżetu Unii Europejskiej**
+- **Fundusze strukturalne** – wspierające rozwój regionalny.
+- **Fundusz Spójności** – przeznaczony na infrastrukturę i ochronę środowiska.
+- **Środki na realizację wspólnej polityki rolnej** – wsparcie dla rolnictwa.
+
+## **3. Przychody z prywatyzacji**
+- Sprzedaż przedsiębiorstw państwowych i nieruchomości należących do Skarbu Państwa.
+
+## **4. Kredyty i pożyczki**
+- **Emisja obligacji skarbowych** – państwo sprzedaje obligacje, które inwestorzy kupują w zamian za przyszłe odsetki.
+- **Pożyczki międzynarodowe** – np. od Międzynarodowego Funduszu Walutowego (MFW).
+
+---
+
+# **Slajd 21: Przeznaczenie środków publicznych**
+Środki publiczne są wykorzystywane do realizacji różnych funkcji państwa.
+
+## **1. Wydatki publiczne**
+Są to środki przeznaczane na funkcjonowanie administracji publicznej i dostarczanie dóbr publicznych.
+
+### **a) Wydatki bieżące**
+- Wynagrodzenia dla pracowników administracji publicznej.
+- Koszty utrzymania instytucji państwowych.
+- Świadczenia socjalne (np. emerytury, renty, 500+).
+
+### **b) Wydatki inwestycyjne**
+- Budowa i modernizacja infrastruktury (drogi, koleje, mosty).
+- Finansowanie badań naukowych i rozwoju technologii.
+- Wsparcie dla sektora energetycznego i ekologii.
+
+## **2. Obsługa długu publicznego**
+- Spłata kredytów i pożyczek zaciągniętych przez państwo.
+- Wypłata odsetek od obligacji skarbowych.
+
+## **3. Transfery do budżetu Unii Europejskiej**
+- Polska, jako członek UE, zobowiązana jest do wpłat na rzecz wspólnego budżetu Unii.
+
+---
+
+# **Slajd 22: Zarządzanie środkami publicznymi**
+Państwo i jego instytucje stosują różne mechanizmy, aby zapewnić efektywne zarządzanie środkami publicznymi.
+
+## **1. Mechanizmy planowania i kontroli**
+Aby wydatkowanie środków było efektywne, stosuje się różne techniki zarządzania budżetem.
+
+### **a) Budżet państwa**
+- Roczny plan dochodów i wydatków państwa zatwierdzany przez parlament.
+- Obejmuje wszystkie źródła środków publicznych i sposoby ich wykorzystania.
+
+### **b) Budżet zadaniowy**
+- Nowoczesna metoda planowania wydatków, w której środki są alokowane na konkretne cele (np. poprawa jakości edukacji, rozwój transportu).
+
+### **c) Wieloletnia prognoza finansowa**
+- Planowanie wydatków publicznych na kilka lat w przód w celu zapewnienia stabilności finansowej.
+
+## **2. Kontrola nad środkami publicznymi**
+Aby uniknąć marnotrawienia środków publicznych, stosuje się różne mechanizmy kontroli:
+
+### **a) Kontrola parlamentarna**
+- Sejm i Senat zatwierdzają budżet oraz monitorują jego realizację.
+
+### **b) Najwyższa Izba Kontroli (NIK)**
+- Niezależna instytucja badająca efektywność wydatków publicznych i wykrywająca nieprawidłowości.
+
+### **c) Ministerstwo Finansów**
+- Odpowiada za prowadzenie polityki budżetowej państwa.
+
+### **d) Audyt wewnętrzny**
+- Wewnętrzne kontrole przeprowadzane przez instytucje sektora publicznego w celu monitorowania swoich wydatków.
+
+# **Podsumowanie slajdów 19-22**
+| **Zagadnienie** | **Opis** |
+|---------------|-----------------------------|
+| **Definicja środków publicznych** | Zasoby finansowe gromadzone i rozdysponowywane przez państwo |
+| **Źródła środków publicznych** | Podatki, składki, dotacje unijne, kredyty, prywatyzacja |
+| **Przeznaczenie środków** | Wydatki publiczne, inwestycje, obsługa długu |
+| **Zarządzanie środkami** | Planowanie budżetowe, kontrola wydatków, audyty |
+
+Środki publiczne są kluczowym elementem finansów państwa. Efektywne zarządzanie nimi pozwala na realizację celów społecznych, gospodarczych i infrastrukturalnych, a także na utrzymanie stabilności budżetowej i zrównoważonego rozwoju kraju.
+
