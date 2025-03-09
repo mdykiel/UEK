@@ -524,3 +524,120 @@ Nowoczesne podejście wykorzystuje zaawansowane narzędzia analizy ekonomicznej,
 
 Nowoczesna nauka o finansach publicznych umożliwia bardziej kompleksowe podejście do zarządzania finansami państwa, uwzględniając wpływ polityki fiskalnej na wzrost gospodarczy, społeczeństwo i stabilność budżetową.
 
+# **Slajdy 15-18: Zakres i podmiotowość finansów publicznych**
+
+Finanse publiczne obejmują szeroki zakres działań związanych z gromadzeniem i rozdysponowywaniem środków publicznych. Slajdy 15-18 koncentrują się na zakresie finansów publicznych (co wchodzi w ich skład) oraz na podmiotach, które nimi zarządzają i wykorzystują je.
+
+---
+
+# **Slajd 15: Zakres finansów publicznych**
+Zakres finansów publicznych określa **Art. 3 ustawy o finansach publicznych**, który wskazuje, jakie procesy finansowe wchodzą w skład sektora publicznego.
+
+## **1. Procesy obejmowane przez finanse publiczne**
+### **a) Gromadzenie środków publicznych**
+- **Dochody podatkowe** (np. VAT, PIT, CIT).
+- **Dochody niepodatkowe** (np. opłaty administracyjne, cła).
+- **Środki z budżetu Unii Europejskiej**.
+- **Przychody ze sprzedaży majątku publicznego**.
+- **Zaciąganie kredytów i pożyczek przez państwo**.
+
+### **b) Wydatkowanie środków publicznych**
+- Finansowanie zadań publicznych (np. edukacja, zdrowie, bezpieczeństwo).
+- Wydatki inwestycyjne i infrastrukturalne.
+- Wydatki na politykę społeczną i redystrybucję dochodów.
+
+### **c) Zarządzanie długiem publicznym**
+- Spłata zobowiązań zaciągniętych przez państwo.
+- Emisja obligacji skarbowych.
+- Polityka równoważenia budżetu.
+
+### **d) Rozliczenia z budżetem Unii Europejskiej**
+- Środki unijne na inwestycje krajowe i regionalne.
+- Wpłaty Polski do budżetu UE.
+
+---
+
+# **Slajd 16: Elementy finansów publicznych**
+Podział finansów publicznych można przedstawić w kilku głównych kategoriach:
+
+## **1. Dochody publiczne**
+Źródła, z których państwo pozyskuje środki na swoje działania:
+- **Podatki** – VAT, PIT, CIT, akcyza.
+- **Cła i opłaty administracyjne**.
+- **Wpływy z majątku państwowego** – dywidendy z państwowych spółek.
+- **Środki unijne i pomoc zagraniczna**.
+
+## **2. Wydatki publiczne**
+Obszary, na które przeznaczane są środki publiczne:
+- **Wydatki bieżące** – pensje dla urzędników, utrzymanie administracji.
+- **Inwestycje publiczne** – infrastruktura, transport, nauka.
+- **Transfery społeczne** – emerytury, renty, zasiłki.
+
+## **3. Deficyt budżetowy i dług publiczny**
+- **Deficyt budżetowy** – sytuacja, w której wydatki publiczne przewyższają dochody.
+- **Dług publiczny** – suma zobowiązań finansowych państwa.
+
+## **4. System zarządzania finansami publicznymi**
+- Budżet państwa jako główny plan dochodów i wydatków.
+- Mechanizmy kontroli i nadzoru nad finansami publicznymi.
+
+---
+
+# **Slajd 17: Zakres podmiotowy finansów publicznych**
+Zgodnie z **Art. 4 ustawy o finansach publicznych**, finanse publiczne obejmują **jednostki sektora finansów publicznych** oraz **inne podmioty korzystające ze środków publicznych**.
+
+## **1. Jednostki sektora finansów publicznych**
+Podmioty, które zarządzają i dysponują środkami publicznymi:
+
+### **a) Organy władzy publicznej**
+- **Administracja rządowa** – ministerstwa, urzędy centralne.
+- **Samorządy terytorialne** – gminy, powiaty, województwa.
+
+### **b) Jednostki budżetowe**
+- Instytucje finansowane w całości z budżetu państwa (np. szkoły publiczne, sądy, urzędy skarbowe).
+
+### **c) Państwowe fundusze celowe**
+- Fundusz Ubezpieczeń Społecznych (FUS).
+- Krajowy Fundusz Drogowy.
+- Narodowy Fundusz Zdrowia (NFZ).
+
+### **d) Agencje wykonawcze i instytucje gospodarki budżetowej**
+- Np. Polska Agencja Rozwoju Przedsiębiorczości.
+
+### **e) Zakład Ubezpieczeń Społecznych (ZUS) i Kasa Rolniczego Ubezpieczenia Społecznego (KRUS)**
+- Zarządzają systemem emerytalnym i rentowym w Polsce.
+
+---
+
+# **Slajd 18: Podmioty spoza sektora finansów publicznych korzystające ze środków publicznych**
+Niektóre podmioty, mimo że nie należą bezpośrednio do sektora finansów publicznych, również korzystają ze środków publicznych.
+
+## **1. Organizacje pozarządowe (NGO)**
+- Fundacje i stowarzyszenia realizujące zadania publiczne (np. pomoc społeczna, ekologia).
+- Otrzymują dotacje z budżetu państwa i samorządów.
+
+## **2. Przedsiębiorstwa państwowe i spółki Skarbu Państwa**
+- Część ich budżetu może pochodzić ze środków publicznych.
+- Kluczowe sektory: energetyka, transport, przemysł ciężki.
+
+## **3. Podmioty realizujące projekty unijne**
+- Firmy prywatne i samorządy korzystające z funduszy europejskich na rozwój regionalny.
+- Programy dotacyjne na innowacje, rolnictwo, infrastrukturę.
+
+## **4. Uczelnie publiczne i instytuty badawcze**
+- Finansowane częściowo ze środków budżetowych.
+- Mogą otrzymywać granty na badania naukowe.
+
+---
+
+# **Podsumowanie slajdów 15-18**
+| **Zakres finansów publicznych** | **Podmioty zarządzające finansami publicznymi** |
+|--------------------------------|--------------------------------|
+| Gromadzenie i wydatkowanie środków publicznych | Organy administracji rządowej i samorządowej |
+| Zarządzanie długiem publicznym | Jednostki budżetowe (np. ministerstwa, szkoły) |
+| Rozliczenia z budżetem UE | Fundusze celowe (NFZ, FUS) |
+| Finansowanie usług publicznych | Agencje wykonawcze i ZUS |
+| Wsparcie dla sektora prywatnego | NGO, uczelnie, przedsiębiorstwa państwowe |
+
+Finanse publiczne są złożonym systemem, obejmującym różne instytucje, które gromadzą, zarządzają i rozdysponowują środki publiczne w celu realizacji funkcji państwa oraz wspierania rozwoju gospodarczego i społecznego.
+
