@@ -1009,4 +1009,112 @@ Deficyt budżetowy może mieć zarówno **pozytywne, jak i negatywne konsekwencj
 | **Skutki deficytu** | Wzrost gospodarczy vs. inflacja, wzrost długu |
 
 Zarządzanie deficytem i równowagą budżetową jest kluczowe dla stabilności finansów publicznych i rozwoju gospodarczego kraju.
+# **Slajdy 33-36: Równowaga budżetowa, deficyt i czynniki wpływające na stabilność finansów publicznych**
+
+Slajdy 33-36 koncentrują się na **czynnikach wpływających na równowagę budżetową, strategiach zarządzania finansami publicznymi, przyczynach nierównowagi finansowej oraz sposobach jej eliminacji**.
+
+---
+
+# **Slajd 33: Czynniki równowagi budżetowej**
+Równowaga budżetowa oznacza sytuację, w której państwo nie wydaje więcej niż gromadzi w postaci dochodów publicznych. Jest ona uzależniona od wielu czynników.
+
+## **1. Czynniki ekonomiczne**
+- **Tempo wzrostu gospodarczego** – wyższy wzrost gospodarczy oznacza większe wpływy podatkowe.
+- **Poziom bezrobocia** – mniejsze bezrobocie generuje większe wpływy z podatków dochodowych i składek na ubezpieczenia społeczne.
+- **Struktura gospodarki** – kraje o rozwiniętym sektorze usług i innowacji mają stabilniejsze finanse publiczne.
+
+## **2. Czynniki organizacyjne**
+- **Efektywność administracji skarbowej** – dobrze działająca administracja zapewnia lepszą ściągalność podatków.
+- **System kontroli wydatków** – monitorowanie wydatków publicznych zapobiega ich nadmiernemu wzrostowi.
+- **Przejrzystość budżetowa** – jawność budżetu państwa i kontrola parlamentarna ograniczają marnotrawstwo środków.
+
+## **3. Czynniki techniczne**
+- **Cyfryzacja systemu podatkowego** – nowoczesne technologie usprawniają pobór podatków i ograniczają unikanie opodatkowania.
+- **Nowoczesne zarządzanie budżetem** – budżet zadaniowy pozwala lepiej alokować środki na priorytetowe cele.
+
+## **4. Czynniki polityczne**
+- **Polityka fiskalna rządu** – decyzje o poziomie podatków i wydatków publicznych wpływają na stabilność finansów.
+- **Decyzje parlamentu** – uchwalanie budżetu i regulacji fiskalnych kształtuje bilans dochodów i wydatków.
+- **Stabilność polityczna** – kraje o stabilnym systemie politycznym mają lepszą kontrolę nad finansami publicznymi.
+
+---
+
+# **Slajd 34: Źródła pokrycia deficytu budżetowego**
+Deficyt budżetowy oznacza, że państwo wydaje więcej, niż wynoszą jego dochody. W celu jego finansowania stosuje się różne metody.
+
+## **1. Emisja skarbowych papierów wartościowych**
+- **Obligacje skarbowe** – państwo sprzedaje obligacje, zobowiązując się do ich wykupu w przyszłości z odsetkami.
+- **Bony skarbowe** – krótkoterminowe papiery dłużne emitowane przez rząd.
+
+## **2. Kredyty krajowe i zagraniczne**
+- Państwo może zaciągać kredyty w bankach centralnych i międzynarodowych instytucjach finansowych (np. MFW, Bank Światowy).
+- Kredyty zagraniczne zwiększają zadłużenie międzynarodowe.
+
+## **3. Pożyczki od sektora prywatnego**
+- Państwo może pozyskiwać środki od banków komercyjnych i instytucji finansowych.
+
+## **4. Prywatyzacja majątku państwowego**
+- Sprzedaż przedsiębiorstw należących do Skarbu Państwa generuje dodatkowe dochody budżetowe.
+
+## **5. Podwyższanie podatków**
+- Może skutecznie zwiększyć wpływy budżetowe, ale może także osłabić wzrost gospodarczy.
+
+## **6. Emisja pieniądza (monetyzacja długu)**
+- Bank centralny może drukować pieniądze, aby sfinansować deficyt, ale prowadzi to do wzrostu inflacji.
+
+---
+
+# **Slajd 35: Skutki zwiększania deficytu budżetowego**
+Deficyt budżetowy może mieć zarówno krótkoterminowe, jak i długoterminowe konsekwencje dla gospodarki.
+
+## **1. Skutki krótkoterminowe**
+- **Pobudzenie gospodarki** – wzrost wydatków publicznych może zwiększyć popyt i produkcję.
+- **Zwiększenie inwestycji publicznych** – finansowanie infrastruktury, edukacji i ochrony zdrowia.
+
+## **2. Skutki długoterminowe**
+- **Wzrost długu publicznego** – przyszłe pokolenia będą musiały spłacić zobowiązania.
+- **Podwyższenie stóp procentowych** – większy deficyt prowadzi do wzrostu kosztów obsługi długu.
+- **Ryzyko inflacji** – jeśli deficyt finansowany jest przez emisję pieniądza, prowadzi to do wzrostu cen.
+
+## **3. Efekt wypychania (crowding out)**
+- Wysoki deficyt i zadłużenie mogą prowadzić do ograniczenia inwestycji prywatnych, gdyż rząd przejmuje dostępne zasoby kapitałowe.
+
+## **4. Ryzyko kryzysu zadłużeniowego**
+- Jeśli państwo nie jest w stanie obsługiwać swojego długu, może dojść do kryzysu finansowego.
+
+---
+
+# **Slajd 36: Strategie eliminacji deficytu budżetowego**
+Aby ograniczyć deficyt, państwo może stosować różne strategie dostosowawcze.
+
+## **1. Ograniczenie wydatków publicznych**
+- **Reforma systemu emerytalnego** – podniesienie wieku emerytalnego zmniejsza wydatki na emerytury.
+- **Zmniejszenie liczby urzędników** – redukcja administracji obniża koszty funkcjonowania państwa.
+- **Likwidacja nierentownych programów socjalnych** – weryfikacja skuteczności świadczeń.
+
+## **2. Zwiększenie dochodów budżetowych**
+- **Podniesienie stawek podatkowych** – większe wpływy z PIT, CIT i VAT.
+- **Uszczelnienie systemu podatkowego** – walka z unikaniem opodatkowania i lukami podatkowymi.
+- **Nowe źródła dochodów** – podatki ekologiczne, cyfrowe.
+
+## **3. Polityka prorozwojowa**
+- **Inwestycje w innowacje i edukację** – długoterminowo zwiększają dochody państwa.
+- **Zachęty dla przedsiębiorczości** – większa liczba firm prowadzi do wzrostu wpływów podatkowych.
+- **Reforma rynku pracy** – zmniejszenie bezrobocia zwiększa wpływy z podatków.
+
+## **4. Konsolidacja finansów publicznych**
+- **Redukcja deficytu strukturalnego** – trwałe ograniczenie wydatków niezależnych od cyklu koniunkturalnego.
+- **Reguły fiskalne** – ustawowe ograniczenia poziomu deficytu budżetowego i długu publicznego.
+
+---
+
+# **Podsumowanie slajdów 33-36**
+| **Zagadnienie** | **Opis** |
+|---------------|-----------------------------|
+| **Czynniki równowagi budżetowej** | Wzrost gospodarczy, efektywność administracji, polityka fiskalna |
+| **Źródła pokrycia deficytu** | Obligacje, kredyty, podwyżki podatków, prywatyzacja |
+| **Skutki deficytu** | Wzrost długu, ryzyko inflacji, ograniczenie inwestycji prywatnych |
+| **Strategie eliminacji deficytu** | Ograniczenie wydatków, wzrost dochodów, polityka prorozwojowa |
+
+Zarządzanie deficytem budżetowym i utrzymanie równowagi budżetowej to kluczowe zadania polityki fiskalnej, wpływające na stabilność finansów państwa i dobrobyt obywateli.
 
