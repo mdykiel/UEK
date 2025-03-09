@@ -1220,9 +1220,120 @@ Konsolidacja fiskalna to działania mające na celu trwałe ograniczenie deficyt
 - **Cyfryzacja administracji skarbowej** – lepsza kontrola nad wpływami i wydatkami.
 - **Zmniejszenie biurokracji** – ograniczenie zbędnych procedur administracyjnych.
 
+# **Czynniki równowagi budżetowej**
+
+## **1. Definicja równowagi budżetowej**
+Równowaga budżetowa oznacza sytuację, w której **dochody publiczne są równe wydatkom publicznym**, co oznacza brak deficytu budżetowego. W przypadku nadwyżki budżetowej dochody przewyższają wydatki, a w przypadku deficytu – wydatki są większe od dochodów.
+
+Państwa dążą do osiągnięcia równowagi budżetowej, ponieważ stabilne finanse publiczne są kluczowe dla długoterminowego wzrostu gospodarczego i unikania kryzysów finansowych.
+
 ---
 
-# **Podsumowanie slajdów 37-41**
+## **2. Kluczowe czynniki wpływające na równowagę budżetową**
+Na poziom równowagi budżetowej wpływa wiele czynników, które można podzielić na **ekonomiczne, organizacyjne, techniczne i polityczne**.
+
+---
+
+### **A) Czynniki ekonomiczne**
+Czynniki te odnoszą się do sytuacji gospodarczej kraju, która wpływa na poziom dochodów budżetowych oraz wielkość wydatków publicznych.
+
+#### **1. Tempo wzrostu gospodarczego**
+- Im wyższy wzrost gospodarczy (mierzony wzrostem PKB), tym większe wpływy z podatków, co poprawia sytuację budżetową.
+- W okresach recesji dochody państwa maleją, a wydatki na świadczenia socjalne rosną, co pogarsza saldo budżetowe.
+
+#### **2. Struktura gospodarki**
+- Kraje z dobrze rozwiniętym sektorem usług i przemysłu mają bardziej stabilne wpływy budżetowe.
+- Kraje zależne od surowców naturalnych są bardziej podatne na wahania dochodów budżetowych.
+
+#### **3. Inflacja i polityka monetarna**
+- **Umiarkowana inflacja** może zwiększać dochody budżetowe, ponieważ rosną ceny, a wraz z nimi wpływy z podatku VAT.
+- **Wysoka inflacja** prowadzi do spadku wartości pieniądza, co może zwiększać koszty obsługi długu publicznego.
+
+#### **4. Bezrobocie i poziom zatrudnienia**
+- Im większa liczba pracujących obywateli, tym większe wpływy z podatków dochodowych i składek na ubezpieczenia społeczne.
+- Wysokie bezrobocie prowadzi do zmniejszenia dochodów budżetowych i wzrostu wydatków na zasiłki.
+
+#### **5. Poziom konsumpcji i inwestycji**
+- Wysoka konsumpcja zwiększa wpływy z VAT i akcyzy.
+- Duże inwestycje publiczne mogą krótkoterminowo zwiększyć deficyt, ale długoterminowo prowadzić do wzrostu gospodarczego.
+
+---
+
+### **B) Czynniki organizacyjne**
+Czynniki te dotyczą sposobu zarządzania finansami publicznymi oraz efektywności administracji skarbowej.
+
+#### **1. Efektywność administracji skarbowej**
+- Dobre zarządzanie systemem podatkowym zwiększa wpływy do budżetu.
+- Walka z unikaniem opodatkowania i korupcją poprawia sytuację finansową państwa.
+
+#### **2. Struktura wydatków publicznych**
+- Nadmierna biurokracja i nieskuteczne wydatki mogą prowadzić do nierównowagi budżetowej.
+- Odpowiednie zarządzanie wydatkami pozwala uniknąć nadmiernego zadłużenia.
+
+#### **3. Przejrzystość budżetowa**
+- Jawność finansów publicznych zmniejsza ryzyko marnotrawstwa i korupcji.
+- Kontrola parlamentarna oraz audyty NIK pozwalają lepiej monitorować stan budżetu.
+
+---
+
+### **C) Czynniki techniczne**
+Czynniki te odnoszą się do nowoczesnych metod zarządzania finansami publicznymi oraz stosowania innowacyjnych rozwiązań w polityce fiskalnej.
+
+#### **1. System zarządzania budżetem**
+- **Budżet zadaniowy** pozwala efektywnie alokować środki na konkretne cele.
+- **Wieloletnie planowanie budżetowe** pomaga uniknąć nagłych kryzysów finansowych.
+
+#### **2. Cyfryzacja administracji skarbowej**
+- Automatyzacja poboru podatków i wykorzystanie Big Data do monitorowania wpływów poprawia efektywność systemu podatkowego.
+- Redukcja biurokracji dzięki e-administracji obniża koszty funkcjonowania państwa.
+
+#### **3. Mechanizmy kontroli finansów publicznych**
+- **Audyt wewnętrzny** pozwala szybko wykrywać nieprawidłowości w wydatkach.
+- **Wprowadzenie reguł fiskalnych** (np. limit deficytu budżetowego) pomaga unikać nadmiernego zadłużenia.
+
+---
+
+### **D) Czynniki polityczne**
+Czynniki polityczne mają istotny wpływ na podejmowanie decyzji dotyczących finansów publicznych.
+
+#### **1. Stabilność polityczna**
+- Kraje o stabilnym systemie politycznym mają większą kontrolę nad finansami publicznymi.
+- Częste zmiany rządów mogą prowadzić do niestabilności budżetowej.
+
+#### **2. Decyzje rządowe dotyczące polityki fiskalnej**
+- **Polityka ekspansywna** (wzrost wydatków publicznych) pobudza gospodarkę, ale może zwiększyć deficyt.
+- **Polityka restrykcyjna** (cięcia budżetowe, podwyżki podatków) ogranicza deficyt, ale może spowolnić wzrost gospodarczy.
+
+#### **3. Wpływ grup społecznych i interesów politycznych**
+- Partie polityczne często dostosowują politykę fiskalną do oczekiwań wyborców, co może prowadzić do populistycznych decyzji budżetowych.
+- Wydatki na programy socjalne mogą poprawiać sytuację obywateli, ale nadmierne zobowiązania mogą prowadzić do nierównowagi finansowej.
+
+#### **4. Polityka międzynarodowa i członkostwo w organizacjach**
+- **Unia Europejska** wymaga przestrzegania reguł budżetowych (np. deficyt <3% PKB, dług <60% PKB).
+- Sankcje gospodarcze lub konflikty międzynarodowe mogą wpływać na dochody budżetowe.
+
+---
+
+## **3. Wnioski końcowe**
+- **Zachowanie równowagi budżetowej wymaga połączenia skutecznej polityki fiskalnej, stabilnej gospodarki i efektywnego zarządzania finansami publicznymi.**
+- **Należy unikać nadmiernego deficytu budżetowego, który może prowadzić do wzrostu zadłużenia i osłabienia gospodarki.**
+- **Państwo powinno dostosowywać politykę budżetową do warunków makroekonomicznych, aby minimalizować ryzyko kryzysu finansowego.**
+
+---
+
+# **Podsumowanie**
+| **Czynnik** | **Wpływ na równowagę budżetową** |
+|------------|----------------------------------|
+| **Ekonomiczne** | Wzrost gospodarczy, inflacja, bezrobocie, konsumpcja. |
+| **Organizacyjne** | Efektywność administracji skarbowej, kontrola wydatków, przejrzystość finansów. |
+| **Techniczne** | Cyfryzacja systemu podatkowego, audyty finansowe, nowoczesne zarządzanie budżetem. |
+| **Polityczne** | Stabilność rządu, decyzje parlamentarne, wpływ partii politycznych i organizacji międzynarodowych. |
+
+Utrzymanie równowagi budżetowej to kluczowe wyzwanie dla każdego państwa. Odpowiednie zarządzanie finansami publicznymi pozwala na uniknięcie kryzysów budżetowych i zapewnienie stabilnego wzrostu gospodarczego.
+
+---
+
+# **Podsumowanie slajdów 37-42**
 | **Zagadnienie** | **Opis** |
 |---------------|-----------------------------|
 | **Czynniki równowagi budżetowej** | Wzrost gospodarczy, inflacja, stabilność polityczna |
