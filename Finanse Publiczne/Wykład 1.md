@@ -759,3 +759,124 @@ Aby uniknąć marnotrawienia środków publicznych, stosuje się różne mechani
 
 Środki publiczne są kluczowym elementem finansów państwa. Efektywne zarządzanie nimi pozwala na realizację celów społecznych, gospodarczych i infrastrukturalnych, a także na utrzymanie stabilności budżetowej i zrównoważonego rozwoju kraju.
 
+# **Slajdy 23-26: Sektor finansów publicznych i jego struktura**
+
+Finanse publiczne obejmują różne podmioty, które odpowiadają za gromadzenie, zarządzanie i rozdysponowywanie środków publicznych. Slajdy 23-26 koncentrują się na **strukturze sektora finansów publicznych, jego instytucjach oraz mechanizmach ich działania**.
+
+---
+
+# **Slajd 23: Sektor finansów publicznych – definicja i zakres**
+### **1. Definicja sektora finansów publicznych**
+Sektor finansów publicznych to **zbiór instytucji i jednostek**, które zajmują się gromadzeniem i wydatkowaniem środków publicznych. Jego funkcją jest realizacja polityki państwa oraz zapewnienie usług publicznych.
+
+### **2. Kluczowe cechy sektora finansów publicznych**
+- **Zarządzanie środkami publicznymi** – odpowiedzialność za finanse budżetowe i pozabudżetowe.
+- **Zapewnienie stabilności gospodarczej** – kontrola nad długiem publicznym i polityką fiskalną.
+- **Podział kompetencji** – między władze centralne, samorządowe i instytucje niezależne.
+
+---
+
+# **Slajd 24: Podmioty sektora finansów publicznych**
+Zgodnie z **Art. 9 ustawy o finansach publicznych**, sektor finansów publicznych obejmuje różne instytucje.
+
+## **1. Organy władzy publicznej i administracja rządowa**
+- **Prezydent RP** – reprezentuje państwo i nadzoruje politykę finansową.
+- **Rada Ministrów i ministerstwa** – odpowiadają za realizację budżetu i polityki fiskalnej.
+- **Administracja rządowa** – urzędy centralne, wojewódzkie, skarbowe.
+
+## **2. Jednostki samorządu terytorialnego (JST)**
+Samorządy mają autonomię finansową i odpowiadają za zarządzanie środkami lokalnymi:
+- **Gminy** – zarządzają lokalnymi usługami (woda, kanalizacja, transport).
+- **Powiaty** – zajmują się edukacją średnią, szpitalami powiatowymi.
+- **Województwa** – koordynują rozwój regionalny i transport.
+
+## **3. Jednostki budżetowe**
+- Są w pełni finansowane z budżetu państwa.
+- Przykłady: szkoły publiczne, sądy, policja.
+
+## **4. Samorządowe zakłady budżetowe**
+- Samofinansujące się instytucje, ale mogą otrzymywać dotacje z budżetu.
+- Przykłady: komunikacja miejska, wodociągi.
+
+## **5. Agencje wykonawcze i instytucje gospodarki budżetowej**
+- Agencje rządowe, np. Polska Agencja Rozwoju Przedsiębiorczości (PARP).
+- Państwowe instytucje badawcze i laboratoria.
+
+## **6. Fundusze celowe**
+- Tworzone w celu realizacji konkretnych programów.
+- Przykłady: Fundusz Ubezpieczeń Społecznych (FUS), Narodowy Fundusz Zdrowia (NFZ).
+
+## **7. Zakład Ubezpieczeń Społecznych (ZUS) i Kasa Rolniczego Ubezpieczenia Społecznego (KRUS)**
+- Instytucje zarządzające systemem emerytalnym i ubezpieczeniami społecznymi.
+
+## **8. Narodowy Fundusz Zdrowia (NFZ)**
+- Finansuje świadczenia zdrowotne dla obywateli.
+
+## **9. Uczelnie publiczne**
+- Uniwersytety i szkoły wyższe finansowane przez budżet państwa.
+
+## **10. Polska Akademia Nauk (PAN) i instytuty badawcze**
+- Otrzymują środki publiczne na działalność naukową.
+
+## **11. Państwowe i samorządowe instytucje kultury**
+- Teatry, muzea, biblioteki finansowane przez budżet państwowy i samorządowy.
+
+---
+
+# **Slajd 25: Rodzaje instytucji sektora finansów publicznych**
+### **1. Jednostki sektora rządowego**
+- Ministerstwa i agencje rządowe finansowane z budżetu państwa.
+
+### **2. Jednostki sektora samorządowego**
+- Zarządzają finansami lokalnymi, zbierają podatki lokalne, prowadzą inwestycje.
+
+### **3. Instytucje niezależne**
+- Sądy, trybunały, NIK – nie podlegają rządowi, ale finansowane są z budżetu państwa.
+
+### **4. Fundusze pozabudżetowe**
+- Realizują specjalne zadania publiczne, np. Fundusz Pracy finansujący politykę zatrudnienia.
+
+---
+
+# **Slajd 26: Mechanizmy zarządzania sektorem finansów publicznych**
+Państwo stosuje różne narzędzia, aby zapewnić efektywność zarządzania środkami publicznymi.
+
+## **1. Planowanie budżetowe**
+- **Budżet państwa** – główny dokument określający dochody i wydatki publiczne.
+- **Budżety samorządów** – określają wydatki na poziomie lokalnym.
+- **Budżet zadaniowy** – środki alokowane według celów i wyników.
+
+## **2. Mechanizmy kontroli finansowej**
+### **a) Kontrola parlamentarna**
+- Sejm i Senat zatwierdzają budżet i kontrolują jego realizację.
+
+### **b) Najwyższa Izba Kontroli (NIK)**
+- Sprawdza, czy środki publiczne są wydawane zgodnie z przepisami i celami.
+
+### **c) Ministerstwo Finansów**
+- Odpowiada za realizację polityki fiskalnej i zarządzanie budżetem.
+
+### **d) Audyt wewnętrzny**
+- Każda instytucja publiczna przeprowadza własne kontrole finansowe.
+
+## **3. Mechanizmy finansowania sektora publicznego**
+- **Podatki i opłaty lokalne** – podstawowe źródło finansowania.
+- **Dotacje i subwencje z budżetu państwa** – transfery pieniężne dla samorządów i instytucji.
+- **Środki z Unii Europejskiej** – finansowanie projektów infrastrukturalnych i społecznych.
+- **Emisja obligacji komunalnych** – samorządy mogą pozyskiwać środki poprzez emisję obligacji.
+
+## **4. Polityka zarządzania długiem publicznym**
+- Państwo kontroluje poziom zadłużenia poprzez limitowanie deficytu budżetowego.
+- Dług publiczny finansowany jest z emisji obligacji i kredytów międzynarodowych.
+
+---
+
+# **Podsumowanie slajdów 23-26**
+| **Zagadnienie** | **Opis** |
+|---------------|--------------------------------|
+| **Sektor finansów publicznych** | System instytucji zarządzających środkami publicznymi. |
+| **Podmioty sektora** | Administracja rządowa, samorządy, fundusze celowe, agencje wykonawcze. |
+| **Rodzaje instytucji** | Jednostki budżetowe, fundusze pozabudżetowe, instytucje niezależne. |
+| **Mechanizmy zarządzania** | Budżet państwa, kontrola finansowa, polityka zarządzania długiem. |
+
+Sektor finansów publicznych jest rozbudowaną strukturą obejmującą różne podmioty i instytucje odpowiedzialne za zarządzanie środkami publicznymi. Efektywne planowanie budżetowe, kontrola wydatków oraz odpowiednia polityka fiskalna są kluczowe dla utrzymania stabilności finansów państwa.
