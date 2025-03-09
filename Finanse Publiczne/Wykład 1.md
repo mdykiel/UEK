@@ -880,3 +880,133 @@ Państwo stosuje różne narzędzia, aby zapewnić efektywność zarządzania ś
 | **Mechanizmy zarządzania** | Budżet państwa, kontrola finansowa, polityka zarządzania długiem. |
 
 Sektor finansów publicznych jest rozbudowaną strukturą obejmującą różne podmioty i instytucje odpowiedzialne za zarządzanie środkami publicznymi. Efektywne planowanie budżetowe, kontrola wydatków oraz odpowiednia polityka fiskalna są kluczowe dla utrzymania stabilności finansów państwa.
+# **Slajdy 27-32: Równowaga budżetowa, deficyt i zarządzanie finansami publicznymi**
+
+Slajdy 27-32 koncentrują się na **równowadze budżetowej**, mechanizmach zarządzania finansami publicznymi, rodzajach deficytu oraz czynnikach wpływających na stabilność budżetu państwa. Są to kluczowe zagadnienia dotyczące finansów publicznych, które decydują o zdolności państwa do skutecznego finansowania swoich zadań.
+
+---
+
+# **Slajd 27: Równowaga budżetowa**
+### **1. Definicja równowagi budżetowej**
+Równowaga budżetowa oznacza sytuację, w której **dochody państwa są równe jego wydatkom**, co oznacza, że państwo nie generuje deficytu ani nadwyżki.
+
+### **2. Rodzaje salda budżetowego**
+Saldo budżetowe określa różnicę między dochodami a wydatkami publicznymi. Wyróżnia się:
+- **Saldo zerowe** – dochody równe wydatkom.
+- **Nadwyżka budżetowa** – dochody przewyższają wydatki (rzadko spotykane).
+- **Deficyt budżetowy** – wydatki są wyższe od dochodów (częste w gospodarkach rozwiniętych).
+
+### **3. Czynniki wpływające na równowagę budżetową**
+- **Stan gospodarki** – wzrost gospodarczy zwiększa dochody budżetowe, recesja prowadzi do wzrostu deficytu.
+- **Polityka podatkowa** – skuteczność systemu podatkowego wpływa na dochody państwa.
+- **Efektywność wydatków publicznych** – marnotrawstwo środków prowadzi do nierównowagi.
+
+---
+
+# **Slajd 28: Mechanizmy zarządzania budżetem**
+Aby utrzymać równowagę budżetową, państwo stosuje różne mechanizmy zarządzania finansami publicznymi.
+
+## **1. Planowanie budżetowe**
+- **Budżet roczny** – najważniejszy dokument określający plan finansowy państwa.
+- **Budżet zadaniowy** – nowoczesne podejście do zarządzania budżetem oparte na konkretnych celach.
+- **Wieloletnia prognoza finansowa** – planowanie finansów publicznych w dłuższym horyzoncie czasowym.
+
+## **2. Kontrola wydatków publicznych**
+- **Najwyższa Izba Kontroli (NIK)** – audyt finansów publicznych.
+- **Ministerstwo Finansów** – zarządza dochodami i wydatkami państwa.
+- **Parlamentarna kontrola budżetu** – Sejm i Senat zatwierdzają oraz nadzorują wykonanie budżetu.
+
+## **3. Stabilizacyjne mechanizmy finansowe**
+- **Automatyczne stabilizatory koniunktury** – np. progresywne podatki i świadczenia społeczne ograniczające skutki recesji.
+- **Fiskalna polityka antycykliczna** – zwiększanie wydatków w okresie recesji, ograniczanie ich w okresie wzrostu.
+
+---
+
+# **Slajd 29: Rodzaje deficytu budżetowego**
+Deficyt budżetowy oznacza sytuację, w której **wydatki państwa przekraczają dochody**. Może on przybierać różne formy:
+
+## **1. Deficyt rzeczywisty**
+- Faktyczna różnica między dochodami a wydatkami budżetowymi.
+- Występuje, gdy państwo nie jest w stanie zbilansować budżetu w danym roku.
+
+## **2. Deficyt cykliczny**
+- Wynika z naturalnych wahań koniunktury gospodarczej.
+- Podczas recesji wpływy podatkowe spadają, a wydatki na politykę społeczną rosną.
+
+## **3. Deficyt strukturalny**
+- Powstaje niezależnie od cyklu koniunkturalnego.
+- Oznacza, że budżet jest źle skonstruowany i wymaga reform.
+
+## **4. Deficyt ukryty**
+- Wynika z zobowiązań państwa, które nie są uwzględniane w oficjalnym bilansie (np. gwarancje kredytowe, zobowiązania emerytalne).
+
+---
+
+# **Slajd 30: Przyczyny powstawania deficytu budżetowego**
+Przyczyny deficytu można podzielić na **ekonomiczne, społeczne i polityczne**.
+
+## **1. Nadmierne wydatki publiczne**
+- Wysokie koszty administracji państwowej.
+- Finansowanie dużych inwestycji infrastrukturalnych.
+- Wydatki na wojsko, ochronę zdrowia i edukację.
+
+## **2. Zbyt niskie dochody budżetowe**
+- Niskie stawki podatkowe lub niewystarczająca ściągalność podatków.
+- Pogorszenie koniunktury gospodarczej prowadzące do spadku wpływów podatkowych.
+
+## **3. Wzrost kosztów obsługi długu publicznego**
+- Rosnące odsetki od obligacji skarbowych.
+- Konieczność refinansowania wcześniejszych długów.
+
+## **4. Czynniki polityczne**
+- Populistyczne decyzje rządów prowadzące do zwiększania wydatków socjalnych.
+- Brak reform systemu podatkowego.
+
+---
+
+# **Slajd 31: Sposoby finansowania deficytu budżetowego**
+Aby pokryć deficyt, państwo może stosować różne metody finansowania.
+
+## **1. Emisja obligacji skarbowych**
+- Państwo sprzedaje obligacje inwestorom, zobowiązując się do ich wykupu w przyszłości.
+
+## **2. Zaciąganie kredytów i pożyczek**
+- Kredyty od międzynarodowych instytucji finansowych (np. MFW, Bank Światowy).
+
+## **3. Prywatyzacja majątku państwowego**
+- Sprzedaż przedsiębiorstw należących do Skarbu Państwa.
+
+## **4. Podwyższenie podatków**
+- Może przynieść szybki wzrost dochodów budżetowych, ale często prowadzi do spowolnienia gospodarczego.
+
+## **5. Emisja pieniądza (monetyzacja długu)**
+- Drukowanie pieniędzy przez bank centralny, co prowadzi do inflacji.
+
+---
+
+# **Slajd 32: Skutki deficytu budżetowego**
+Deficyt budżetowy może mieć zarówno **pozytywne, jak i negatywne konsekwencje**.
+
+## **1. Pozytywne skutki deficytu**
+- **Stymulacja wzrostu gospodarczego** – większe wydatki publiczne mogą pobudzić inwestycje i konsumpcję.
+- **Finansowanie długoterminowych projektów** – np. infrastrukturalnych.
+
+## **2. Negatywne skutki deficytu**
+- **Wzrost długu publicznego** – przyszłe pokolenia będą musiały spłacać zobowiązania.
+- **Inflacja** – nadmierna emisja pieniądza prowadzi do wzrostu cen.
+- **Ryzyko kryzysu zadłużenia** – jeśli państwo nie jest w stanie spłacić zobowiązań, może dojść do bankructwa.
+
+---
+
+# **Podsumowanie slajdów 27-32**
+| **Zagadnienie** | **Opis** |
+|---------------|-----------------------------|
+| **Równowaga budżetowa** | Dochody państwa równe wydatkom |
+| **Mechanizmy zarządzania budżetem** | Budżet zadaniowy, kontrola NIK, polityka fiskalna |
+| **Rodzaje deficytu** | Rzeczywisty, cykliczny, strukturalny, ukryty |
+| **Przyczyny deficytu** | Nadmierne wydatki, niskie dochody, koszty długu |
+| **Sposoby finansowania** | Obligacje, kredyty, podwyżki podatków, prywatyzacja |
+| **Skutki deficytu** | Wzrost gospodarczy vs. inflacja, wzrost długu |
+
+Zarządzanie deficytem i równowagą budżetową jest kluczowe dla stabilności finansów publicznych i rozwoju gospodarczego kraju.
+
