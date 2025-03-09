@@ -327,3 +327,135 @@ Dopływ środków do administracji centralnej i lokalnej powinien być regulowan
 
 ## **8. Podsumowanie**
 Mechanizm rozdysponowania środków publicznych jest kluczowym elementem polityki finansowej państwa. Odpowiednia alokacja funduszy publicznych pozwala na realizację celów społecznych i gospodarczych, zapewniając równomierny rozwój kraju oraz sprawiedliwy dostęp obywateli do usług publicznych.
+
+# **Slajd 4: Mechanizm gromadzenia środków publicznych**
+
+Mechanizm gromadzenia środków publicznych odnosi się do sposobów, w jakie państwo pozyskuje środki finansowe na realizację swoich funkcji. Obejmuje to zarówno dochody bezzwrotne, takie jak podatki i opłaty, jak i środki zwrotne, np. kredyty i obligacje.
+
+---
+
+## **1. Czynniki kształtujące wielkość popytu na środki publiczne**
+Popyt na środki publiczne jest determinowany przez:
+- **Zakres funkcji państwa** – Im większa rola państwa w gospodarce, tym większe zapotrzebowanie na fundusze.
+- **Politykę społeczną** – Programy socjalne, zasiłki, emerytury wymagają stałego finansowania.
+- **Poziom infrastruktury** – Inwestycje w transport, edukację, ochronę zdrowia.
+- **Zobowiązania międzynarodowe** – Spłata długu publicznego, składki do organizacji międzynarodowych.
+
+---
+
+## **2. Sposoby gromadzenia środków publicznych**
+Państwo może pozyskiwać dochody w dwojaki sposób:
+
+### **a) Pieniądz bezzwrotny (dochody publiczne)**
+Są to środki, które nie podlegają zwrotowi i służą finansowaniu działalności państwa.
+
+#### **1. Podatki**  
+Podstawowe źródło dochodów państwa:
+- **Podatki bezpośrednie** – płacone przez podatnika bezpośrednio do urzędu skarbowego:
+  - PIT (podatek dochodowy od osób fizycznych)
+  - CIT (podatek dochodowy od osób prawnych)
+  - Podatek od nieruchomości
+- **Podatki pośrednie** – doliczane do ceny towarów i usług:
+  - VAT (podatek od towarów i usług)
+  - Akcyza (podatek od wyrobów tytoniowych, paliw, alkoholu)
+
+#### **2. Opłaty i cła**  
+Pobierane za konkretne usługi lub towary importowane:
+- **Cła** – opłaty za import towarów.
+- **Opłaty administracyjne** – za wydanie paszportu, dowodu rejestracyjnego itp.
+
+#### **3. Składki na ubezpieczenia społeczne**  
+Środki przeznaczane na system emerytalny, zdrowotny i rentowy, np. ZUS, NFZ.
+
+#### **4. Dywidendy z przedsiębiorstw państwowych**  
+Dochody z działalności państwowych firm, np. spółek energetycznych.
+
+---
+
+### **b) Pieniądz zwrotny (finansowanie dłużne)**
+Są to środki pozyskiwane przez państwo, które wymagają zwrotu.
+
+#### **1. Emisja obligacji skarbowych**
+- Państwo emituje obligacje, sprzedając je inwestorom w zamian za kapitał.
+- Obligacje skarbowe są uznawane za bezpieczne narzędzie inwestycyjne.
+
+#### **2. Kredyty i pożyczki**
+- Kredyty zaciągane w bankach krajowych i międzynarodowych.
+- Pożyczki z instytucji międzynarodowych, np. Międzynarodowego Funduszu Walutowego.
+
+#### **3. Przychody z prywatyzacji**
+- Sprzedaż majątku państwowego, np. przedsiębiorstw publicznych.
+
+---
+
+## **3. Kryteria nakładania danin publicznych**
+Nakładanie podatków i opłat wymaga uwzględnienia różnych czynników:
+
+### **a) Podmiot opodatkowania**  
+Kto płaci podatek (osoby fizyczne, przedsiębiorstwa, instytucje).
+
+### **b) Przedmiot opodatkowania**  
+Co jest opodatkowane (dochód, majątek, transakcje handlowe).
+
+### **c) Podstawa opodatkowania**  
+Od jakiej wartości naliczany jest podatek (np. wartość nieruchomości, przychód brutto).
+
+### **d) System ulg i zwolnień**  
+- **Ulgi podatkowe** – obniżenie wysokości podatku dla wybranych grup (np. ulga na dzieci, ulga dla przedsiębiorców).
+- **Zwolnienia podatkowe** – brak obowiązku płacenia podatku przez określone podmioty (np. organizacje charytatywne).
+
+### **e) Relacja między podatkami bezpośrednimi a pośrednimi**  
+- **Podatki bezpośrednie** – progresywne, zależne od dochodów.
+- **Podatki pośrednie** – jednolite dla wszystkich, obciążające konsumpcję.
+
+---
+
+## **4. Organizacyjne formy gromadzenia środków publicznych**
+### **a) Fundusze budżetowe**
+- Środki gromadzone i zarządzane w ramach budżetu państwa i samorządów.
+- Zapewniają przejrzystość finansów publicznych.
+
+### **b) Fundusze celowe**
+- Tworzone na potrzeby konkretnych programów (np. Fundusz Ubezpieczeń Społecznych).
+- Finansowane ze specjalnych opłat lub podatków.
+
+---
+
+## **5. Budowa skutecznego aparatu skarbowego**
+Aby system podatkowy był efektywny, konieczne jest:
+- **Uszczelnienie systemu podatkowego** – eliminacja unikania opodatkowania.
+- **Efektywność administracji skarbowej** – uproszczenie procedur, cyfryzacja systemów podatkowych.
+- **Społeczna akceptacja podatków** – przejrzystość systemu i sprawiedliwość w obciążeniach podatkowych.
+
+---
+
+## **6. Udział władz centralnych i samorządowych w gromadzeniu środków publicznych**
+Podział dochodów publicznych pomiędzy administrację rządową i lokalną jest kluczowy dla sprawnego funkcjonowania państwa.
+
+### **a) Dochody władz centralnych**
+- Podatki VAT, akcyza, cło – wpływy do budżetu centralnego.
+- Środki na finansowanie polityki krajowej, obronności, programów rządowych.
+
+### **b) Dochody samorządów**
+- Podatek od nieruchomości, opłaty lokalne – główne źródła dochodów samorządowych.
+- Finansowanie infrastruktury lokalnej, edukacji, transportu.
+
+---
+
+## **7. Mechanizmy regulujące dopływ środków do różnych szczebli władzy**
+### **a) Podatki centralne i lokalne**
+- Podatki dochodowe i VAT trafiają do budżetu państwa.
+- Podatki od nieruchomości i działalności gospodarczej trafiają do samorządów.
+
+### **b) Subwencje i dotacje**
+- **Subwencje ogólne** – środki przekazywane samorządom bez określonego celu.
+- **Dotacje celowe** – środki na konkretne programy (np. dofinansowanie szkół).
+
+### **c) System wyrównawczy**
+- Mechanizmy kompensacyjne dla biedniejszych regionów.
+- Przekazywanie części dochodów bogatszych gmin na rzecz słabszych ekonomicznie.
+
+---
+
+## **8. Podsumowanie**
+Mechanizm gromadzenia środków publicznych obejmuje różne formy pozyskiwania dochodów przez państwo. Kluczowe źródła finansowania to podatki, opłaty i środki dłużne. Efektywna organizacja systemu podatkowego oraz właściwy podział dochodów między administrację centralną i lokalną ma istotne znaczenie dla stabilności finansów publicznych oraz realizacji usług na rzecz obywateli.
