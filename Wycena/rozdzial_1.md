@@ -23,18 +23,11 @@ Podstawowym założeniem wyceny jest kontynuowanie działalności w przyszłośc
 - Dane makroekonomiczne ze stron rządowych
 - Dane sektorowe
 - Strona internetowa spółki
-- Raporty MDDP
 
 ### Standard wartości
 Jako standard wartości przyjęta jest godziwa wartość rynkowa (ang. Fair Market Value).
 
 ### Inne kluczowe informacje
-- Wycena sporządzona została przez MDDP Michalik Dłuska Dziedzic i Partnerzy S.A.
 - Przyjęto założenie o kontynuacji działalności spółki
 - Spółka dysponuje zorganizowanym, zdolnym do generowania dochodu zespołem aktywów i zasobów ludzkich
 - Nie występuje bezpośrednie zagrożenie zaprzestania działalności
-
-### Ograniczenia
-- Raport może być przedstawiony jedynie Zamawiającemu
-- Wyjątkiem jest nakaz sądu lub innego właściwego organu
-- Wynagrodzenie wyceniającego nie jest uzależnione od wyników wyceny
